@@ -1,0 +1,62 @@
+FOTO ILUSTRASI (BERLISENSI UNSPLASH)
+Foto dipanggil dari web dan memerlukan koneksi internet. Kredit individual juga tampil pada halaman.
+
+blocks: Michał Bożek
+Sumber: https://unsplash.com/photos/assorted-color-wooden-blocks-RcxR1aLw8X0
+Alamat foto: https://images.unsplash.com/photo-1575364289437-fb1479d52732?auto=format&fit=crop&w=1200&q=78
+
+child: Stanley Kustamin
+Sumber: https://unsplash.com/photos/child-playing-with-colorful-building-blocks-on-wooden-floor-ckdfYXXDs20
+Alamat foto: https://images.unsplash.com/photo-1759147893749-7c92a92cd9d1?auto=format&fit=crop&w=1200&q=78
+
+shape: Angie Dutton
+Sumber: https://unsplash.com/photos/wooden-shape-sorter-toy-with-colorful-blocks-E1shiIGT8Oo
+Alamat foto: https://images.unsplash.com/photo-1774464593838-85b320eb7453?auto=format&fit=crop&w=1200&q=78
+
+apple: Olesia Buiar
+Sumber: https://unsplash.com/photos/red-apple-fruits-on-basket-aUmF9g3-hJI
+Alamat foto: https://images.unsplash.com/photo-1565809655810-3973da946da1?auto=format&fit=crop&w=1200&q=78
+
+pencils: Laura Rivera
+Sumber: https://unsplash.com/photos/assorted-color-pencils-in-yellow-bucket-ArH3dtoDQc0
+Alamat foto: https://images.unsplash.com/photo-1629652487043-fb2825838f8c?auto=format&fit=crop&w=1200&q=78
+
+apples: Julia Kicova
+Sumber: https://unsplash.com/photos/a-basket-filled-with-lots-of-red-apples-2ip11Nhylts
+Alamat foto: https://images.unsplash.com/photo-1636958926605-2016302f4e35?auto=format&fit=crop&w=1200&q=78
+
+crayons: Jamie O’Sullivan
+Sumber: https://unsplash.com/photos/assorted-color-coloring-pencils-on-white-table-ZPmq9YN5LAQ
+Alamat foto: https://images.unsplash.com/photo-1581938458471-48347f596f89?auto=format&fit=crop&w=1200&q=78
+
+abacus: Kati Hoehl
+Sumber: https://unsplash.com/photos/a-wooden-abacusk-sitting-on-top-of-a-table-next-to-a-plant-i3rBo3b9QbA
+Alamat foto: https://images.unsplash.com/photo-1718306201865-cae4a08311fe?auto=format&fit=crop&w=1200&q=78
+
+colorpencil: salvatore ventura
+Sumber: https://unsplash.com/photos/assorted-color-color-pencils-nNe4HwY_iY0
+Alamat foto: https://images.unsplash.com/photo-1522111608460-19e7331e00fb?auto=format&fit=crop&w=1200&q=78
+
+market: Lusia Komala Widiastuti
+Sumber: https://unsplash.com/photos/a-display-of-apples-pears-and-bananas-in-baskets-9mWbe0klb-E
+Alamat foto: https://images.unsplash.com/photo-1705727209465-b292e4129a37?auto=format&fit=crop&w=1200&q=78
+
+notebook: Jess Bailey
+Sumber: https://unsplash.com/photos/notebook-pencil-and-colorful-tape-on-white-surface-J1v4-GoVlnY
+Alamat foto: https://images.unsplash.com/photo-1766961557611-0d0ebe2311c2?auto=format&fit=crop&w=1200&q=78
+
+handblocks: Magic Fan
+Sumber: https://unsplash.com/photos/childs-hands-arranging-colorful-wooden-blocks-on-a-surface-uHcgDoNo6EY
+Alamat foto: https://images.unsplash.com/photo-1782665452732-84835d3ba965?auto=format&fit=crop&w=1200&q=78
+
+boxblocks: Nik Shuliahin
+Sumber: https://unsplash.com/photos/a-box-of-colorful-wooden-blocks-sitting-on-top-of-a-carpet-X_-ectzZbd0
+Alamat foto: https://images.unsplash.com/photo-1672770057229-72f8150aece3?auto=format&fit=crop&w=1200&q=78
+
+pencilbox: Jason Leung
+Sumber: https://unsplash.com/photos/wooden-box-filled-with-colorful-pencils-on-a-table-slO9GtpTxW4
+Alamat foto: https://images.unsplash.com/photo-1779144639478-72cd4e2794b4?auto=format&fit=crop&w=1200&q=78
+
+writing: American Jael
+Sumber: https://unsplash.com/photos/a-person-writing-on-a-notebook-with-colored-pens-OEvLi8LM7cc
+Alamat foto: https://images.unsplash.com/photo-1712762056200-50d8f803ba10?auto=format&fit=crop&w=1200&q=78
